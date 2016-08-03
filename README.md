@@ -15,6 +15,7 @@ git clone https://github.com/arturoaviles/djangosecurelogin.git
 ###Small Configurations
 cd project  
 python manage.py migrate
+
 python manage.py createsuperuser
 
 ###Run
