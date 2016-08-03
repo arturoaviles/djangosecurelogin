@@ -13,7 +13,7 @@ Go into your terminal and...
 git clone https://github.com/arturoaviles/djangosecurelogin.git
 
 ###Small Configurations
-cd djangosecurelogin  
+cd project  
 python manage.py migrate
 python manage.py createsuperuser
 
